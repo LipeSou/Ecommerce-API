@@ -5,3 +5,4 @@
    4. nodemoon: package.json 'nodemon index.js'
 2. Conexão com banco de dados
 3. Criar as rotas
+4. Criar os models
